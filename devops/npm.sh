@@ -17,3 +17,7 @@ fi
 
 # Run npm install
 npm install
+
+
+
+echo $STRING
